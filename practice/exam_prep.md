@@ -9,7 +9,7 @@
 | W1.3 |  |A | Identify and correctly use basic HTML entities. |
 | W1.4 |  |c- | Explain the importance of character encoding. |
 | W1.5 |  |B- | Utilize comments to document HTML code. |
-| W1.6 |  |A | Demonstrate the use of basic tags (html, head, title, body). |
+| W1.6 | |A | Demonstrate the use of basic tags (html, head, title, body). |
 | W2.1 | **Section 2: Text Formatting and Structure** |A | Implement text formatting tags such as strong, em, u, del, sup, sub, and mark. |
 | W2.2 |  |A | Demonstrate the use of headings (h1-h6) and their importance in structuring content and enhancing accessibility. |
 | W2.3 |  |A | Structure content with paragraphs (p) and manage text flow. |
