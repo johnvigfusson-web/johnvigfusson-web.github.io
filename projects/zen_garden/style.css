@@ -6,3 +6,89 @@
   All of your CSS goes in this file.
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+	background-color:#ffb5b5;
+	font-family: "Atkinson Hyperlegible"
+}
+
+.first-color { 
+	background: #ffcbcb; 
+}
+	
+.second-color { 
+	background: #ffb5b5; 
+}
+
+.third-color(headercolor) { 
+	background: #407088; 
+}
+
+.fourth-color(darkish) { 
+	background: #132743; 
+}
+
+.fiveth-color(red) {
+	background: #f96d00;
+}
+
+.sixth-color(dark) {
+	background: #393e46;
+}
+
+
+.seventh-color(listcolor) {
+	background: #f2f2f2
+}
+
+.eigth-color(sectioncolor){
+background:#9fd3c7
+}
+
+.nineth-color { 
+	background: #8ef6e4; 
+}
+	
+.tenth-color { 
+	background: #9896f1; 
+}
+
+.eleventh-color { 
+	background: #d59bf6; 
+}
+
+.twealth-color { 
+	background: #edb1f1; 
+}
+
+#disclaimer{
+	background-color:#407088;
+
+}	#disclaimer::before{
+content:"like what i was talking about before";
+height:25px;
+background-color:#f96d00;
+display:block;
+}
+
+.submenu {
+    display: none;
+}
+
+.menu-item:hover .submenu,
+.menu-item:focus-within .submenu {
+    display: block;
+}
+
+h1{
+	background-color:#407088;
+}
+
+h2{
+
+	background-color:#407088;
+}
+li{
+	background-color:  #f2f2f2;
+}
