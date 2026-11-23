@@ -88,7 +88,7 @@ h2{
 
 	background-color:#407088;
 }
-li{
+.listcolor{
 	background-color:  #f2f2f2;
 }
 
@@ -97,12 +97,15 @@ li{
 	align-items: center;
 	padding: 1rem;
 	gap: 2rem;
+	background-color: #f2f2f2;
 }
 .c1{
 	display:flex;
 	align-items:center;
 	justify-content:space-around;
 	padding: 1rem;
+	list-style: none;
+	background-color: #f2f2f2;
 }
 .border{
 	border: 3px solid black;
