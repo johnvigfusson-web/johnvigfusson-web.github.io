@@ -125,37 +125,12 @@ li{
 .rborder{
 	border-right : 3px solid black;
 }
-.c2 {
-      display: grid;
-      grid:
-        'a' auto
-        'b' auto
-        'c' auto
-        'd' auto
-        'e' auto
-        'f' auto
-        'g' auto
-        / 1fr;
-      padding: 1rem;
-    }
-     .c3 {
-      grid-area: a;
-    }
-    .c4 {
-      grid-area: b;
-    }
-    .c5 {
-      grid-area: c;
-    }
-    .c6 {
-      grid-area: d;
-    }
-    .c7 {
-      grid-area: e;
-    }
-    .c8 {
-      grid-area: f;
-    }
-    .c9 {
-      grid-area: g;
-    }
+.size{
+	width: 20vh;
+	height: 20vh;
+}
+.list{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
