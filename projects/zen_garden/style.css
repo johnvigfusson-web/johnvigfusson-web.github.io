@@ -69,10 +69,6 @@ background:#9fd3c7
 	background-color:#407088;
 
 }	#disclaimer::before{
-content:"like what i was talking about before";
-height:25px;
-background-color:#f96d00;
-display:block;
 }
 
 .submenu {
